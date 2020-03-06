@@ -1,1 +1,1 @@
-https://github.com/JCarlosVM20/doa17-static-page
+https://github.com/JCarlosVM20/doa17-static-page.git
